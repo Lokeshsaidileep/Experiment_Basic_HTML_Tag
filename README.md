@@ -18,8 +18,8 @@ Execute the program
 <html>
 
 <body>
-<h1>Name: Karthi Govindharaju</h1>
-<h3>Designation: Assistant Professor (SG) /h3>
+<h1>Name: Lokesh Sai dileep </h1>
+<h3>Reg no: 21002174 </h3>
 <h5>Dept.:Artificial Intelligence and Data Science</h5>
 </body>
 
@@ -28,8 +28,8 @@ Execute the program
 # OUPUT
 <html>
 <body>
-<h1>Name: Karthi Govindharaju</h1>
-<h3>Designation: Assistant Professor (SG)</h3>
-<h5>Dept.:Artificial Intelligence and Data Science</h5>
+<h1>Name: Lokesh Sai dileep </h1>
+<h3>Reg no: 21002174 </h3>
+<h5>Dept.:Artificial Intelligence and Data Science </h5>
 </body>
 </html>
